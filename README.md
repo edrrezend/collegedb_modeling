@@ -108,7 +108,7 @@ To perform centralized control of students, teachers, courses, disciplines, acad
 
 ![collegeDB_logic](https://user-images.githubusercontent.com/124625776/230535193-4aff41d2-6b3f-4d9a-9c3c-754fee8c0904.png)
 
-# Physical Model:
+## Physical Model:
 
 [collegedb_tables.txt](https://github.com/edrrezend/collegedb_modeling/files/11175909/collegedb_tables.txt)
 
