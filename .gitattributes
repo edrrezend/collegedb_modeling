@@ -1,0 +1,2 @@
+*.py linguist-language=True
+*.sql linguist-language=True
