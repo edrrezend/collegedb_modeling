@@ -3,7 +3,7 @@
 ## Enviroment:
 Microsoft SQL Server + BrModelo
 
-###O bjective:
+### O bjective:
 To perform centralized control of students, teachers, courses, disciplines, academic history, and classes.
 
 ### Project phases:
